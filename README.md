@@ -76,12 +76,6 @@ Templete_Frontend/
 
 ## 🎨 Design Tokens
 
-O arquivo `src/styles/globals.css` centraliza todas as variáveis de estilo do sistema. Importe-o no `main.tsx` ou no `index.css`:
-
-```ts
-// main.tsx
-import './styles/globals.css'
-```
 
 ### Cores disponíveis
 
