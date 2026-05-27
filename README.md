@@ -96,7 +96,6 @@ import './styles/globals.css'
 | `--color-bg-page` | `#F0F4F8` | Fundo geral da página |
 | `--color-bg-card` | `#FFFFFF` | Cards e painéis |
 | `--color-sidebar-bg` | `#1A2B45` | Fundo da sidebar |
-
 ---
 
 ## 🔤 Tipografia
